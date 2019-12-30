@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+
+![](dist/static/de.jpg)
+
+
 ## Build Setup
 
 ``` bash
